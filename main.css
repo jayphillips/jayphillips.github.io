@@ -109,22 +109,11 @@ h1.large {
     line-height: 70px;
 }
 
-/* IT Section */
-
-.container-1 {
-    margin-bottom: 100px;
-}
-
-#microsoft {
-    
-}
-
-#apple {
-    
-}
-
-#linux {
-    
+h2.medium {
+    color: #fff;
+    font-size: 16px;
+    margin: 0;
+    line-height: 20px;
 }
 
 /* Projects Section */
